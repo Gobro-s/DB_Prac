@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "37b1904a43298760",
+    "type": "split",
+    "children": [
+      {
+        "id": "20e9da63a01af579",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8b446184be31508",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0405_RDB_SQL/0405_Database.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3b2b30f99035135d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d896bf4b96a195a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99ccd20ae6a45d67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3ba6727b94eb0107",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac51e0ae4c9a41b2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "0cba33598ea93b60",
+    "type": "split",
+    "children": [
+      {
+        "id": "00bd2ffe0293ec55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "235112007f93e42a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0405_RDB_SQL/0405_Database.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "265c02c75253ea68",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0405_RDB_SQL/0405_Database.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "43bc46066e2595b2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f514f45677238740",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0405_RDB_SQL/0405_Database.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d8b446184be31508",
+  "lastOpenFiles": [
+    "0405_RDB_SQL/database_01/db.sqlite3-journal",
+    "0405_RDB_SQL/database_01/db.sqlite3",
+    "0405_RDB_SQL/database_01/mydb.sqlite3",
+    "0405_RDB_SQL/database_01/DML.sql",
+    "0405_RDB_SQL/csv불러오기",
+    "0405_RDB_SQL/새 폴더",
+    "Type Affinity.png",
+    "Pasted image 20230405110037.png",
+    "스키마확인.png",
+    "Pasted image 20230405105446.png",
+    "0405_RDB_SQL/database_01/first.sql",
+    "0405_RDB_SQL/database_01/sqlite3/sqlite3.exe",
+    "0405_RDB_SQL/database_01/sqlite3/sqlite3.dll",
+    "0405_RDB_SQL/database_01/sqlite3/sqlite3.def",
+    "0405_RDB_SQL/database_01/sqlite3/sqlite3_analyzer.exe",
+    "0405_Database.md",
+    "0405_RDB_SQL/Table.png",
+    "0405_RDB_SQL/0405_Database.md",
+    "Table.png",
+    "Pasted image 20230405100043.png"
+  ]
+}
